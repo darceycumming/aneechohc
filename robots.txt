@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ixieliego.fairwebservices.org/sitemap.xml
